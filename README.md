@@ -7,7 +7,7 @@ I'm a Cybersecurity Student and an active CTF competitor.
 
 
 
-👩‍💻 I'm currently working on Binary analysis and exploitation :(
+👩‍💻 I'm currently learning Binary analysis and exploitation :(
 
 🧠 I've developed CTF challenges for ISSessions CTF 2024
 
