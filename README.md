@@ -1,11 +1,9 @@
 
-### Hi, I'm Varun! 👋
+### Hi, I'm Varun! 
 
 
-## 🚀 About Me
+##  About Me
 I'm a Cybersecurity Student and an active CTF competitor. 
-
-
 
 👩‍💻 I'm currently learning Binary analysis and exploitation :(
 
