@@ -9,7 +9,7 @@ I'm a Cybersecurity Student and an active CTF competitor.
 
 💬 Ask me about Infiltrated Inbox-2 or Subtle Secrets :) or just see the writeups
 
-📫 Discord: restless_gambler
+📫 Discord: restless__gambler
 
 
 
